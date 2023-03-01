@@ -1,4 +1,32 @@
-.beefstew {
-    width: 400px;
+.beefstew,
+.friedrice,
+.chickenkatsu {
+    width: 700px;
     height: auto;
+}
+
+.main {
+    font-size: 36px;
+    font-weight: 800;
+    color: cornflowerblue;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    text-align: center;
+}
+
+.beef,
+.katsu,
+.rice {
+    font-size: 19px;
+    color: cadetblue;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+}
+
+li, p {
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Cambria, Cochin', Georgia, Times, 'Times New Roman', serif;
 }
